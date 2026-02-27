@@ -4,8 +4,6 @@
 <!-- Recomendación: imagen de 1280x640px con fondo claro, logo centrado y tagline -->
 ![Hermes Banner](docs/assets/banner.png)
 
-# HERMES
-
 **Detección de phishing multi-agente especializada en España**
 
 *Jose Miguel Martínez · jmiguel16@hotmail.es*
