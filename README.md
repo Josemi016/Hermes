@@ -152,7 +152,18 @@ INCIBE / CCN-CERT feeds  →  Contexto de amenazas activas
 Ningún dato analizado sale de la infraestructura del operador. No hay llamadas a APIs externas de análisis, no hay telemetría, no hay almacenamiento en servicios de terceros. El sistema funciona completamente en modo on-premise.
 
 Esta arquitectura hace que el cumplimiento del RGPD sea consecuencia del diseño, no un requisito a gestionar a posteriori.
+---
 
+## Resultados
+
+### Caso 1: SMS/WhatsApp 
+![Hermes Caso1](docs/assets/caso1.png)
+
+### Caso 2: URL 
+![Hermes Caso2](docs/assets/caso2.png)
+
+### Caso 3: Email 
+![Hermes Caso3](docs/assets/caso3.png)
 ---
 
 ## Estado del proyecto
