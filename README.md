@@ -2,7 +2,7 @@
 
 <!-- PORTADA: sustituir por imagen del banner de Hermes -->
 <!-- Recomendación: imagen de 1280x640px con fondo claro, logo centrado y tagline -->
-![Hermes Banner](docs/assets/logo.png)
+![Hermes Banner](docs/assets/banner.png)
 
 # HERMES
 
